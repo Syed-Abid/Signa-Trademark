@@ -1,0 +1,1796 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "tm_019e4d77-840a-740b-95e0-477438248c28",
+      "object": "trademark",
+      "mark_text": "apple",
+      "mark_feature_type": "figurative",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1901-29601",
+      "registration_number": "129601",
+      "ir_number": null,
+      "filing_date": "1968-09-19",
+      "registration_date": "1970-01-09",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Elektriska och elektroniska apparater och instrument; ljudåtergivningsapparater och -instrument; apparater och instrument för utsädning, överföring och mottagning av radiomedelanden; filmupptagning, grammofonskivor, band- och trådupptagning, delar av och tillbehör till förutnä...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": "Böcker, notblad, pappershandelsvaror, dekalkomanier, konstnärsutrustning, pennor, blyertspennor, ritstift, penslar, färgkritor, gratulationskort, affischer.",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 28,
+          "goods_services_text": "Spel och leksaker.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        16,
+        28
+      ],
+      "design_codes": [
+        {
+          "system": "vienna",
+          "code": "05.07.13"
+        }
+      ],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e4d77-840a-740b-95e0-477438248c28/media/med_b2a20e74-f3d9-45e5-b90d-fb90a21b3704",
+      "updated_at": "2026-05-22T02:15:38.671Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4dbc-cc72-72e0-bb9d-6c4cc8b7312e",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1987-04494",
+      "registration_number": "256298",
+      "ir_number": null,
+      "filing_date": "1987-06-09",
+      "registration_date": "1994-03-11",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Datorer, inspelade datorprogram, tangentbord, monitorer, kablar för tele- och datakommunikation, skivaggregat, modem, syntetisatorer, skrivare.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T03:31:19.092Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4da4-643e-73c5-8ff2-9d22a59fc96d",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1984-01412",
+      "registration_number": "192826",
+      "ir_number": null,
+      "filing_date": "1984-02-20",
+      "registration_date": "1984-09-07",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 20,
+          "goods_services_text": "Möbler, speglar, tavelramar; varor icke ingående i andra klasser, av trä, kork,vass, rotting, korg, horn, ben, elfenben, valfiskben, snäckskal, bärnsten, pärlemor, sjöskum eller av ersättningsmedel för dessa material eller av plast, speciellt utställningsmaterial, såsom montra...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        20
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T03:04:39.490Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4dcf-1b8d-764a-9e96-557627eb8761",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1989-04946",
+      "registration_number": "258662",
+      "ir_number": null,
+      "filing_date": "1989-05-24",
+      "registration_date": "1994-06-10",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Apparater för datorstyrd och datorstödd framställning, ändring och återgivning av ljud och videos; apparater och instrument för elektronisk kommunikation, apparater och instrument för telekommunikation; utrustning och apparater för analog och digital ljud- och videoomvandling;...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": "Trycksaker, däri inbegripet manualer, instruktionsmaterial, undervisningshjälpmedel, broschyrer och pamfletter, allt detta riktat till datoranvändare.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        16
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T03:51:19.173Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4d92-7bd6-753c-9663-8b514dc522de",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1981-02250",
+      "registration_number": "191040",
+      "ir_number": null,
+      "filing_date": "1981-04-24",
+      "registration_date": "1984-04-13",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 16,
+          "goods_services_text": "Publikationer avseende datorer och dataprogram.",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 35,
+          "goods_services_text": "Tjänster i samband med utveckling av dataprogram vid bistånd i skötsel av affärsverksamhet.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        16,
+        35
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T02:45:06.001Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4d94-3f14-748c-b0b4-f19288885f51",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1981-04617",
+      "registration_number": "191283",
+      "ir_number": null,
+      "filing_date": "1981-09-07",
+      "registration_date": "1984-05-04",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 42,
+          "goods_services_text": "Utarbetande av software för samt programmering av datorer; uthyrning av datore r.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T02:47:01.545Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4dc6-d59b-754f-bab3-06121ce90bcd",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1988-05505",
+      "registration_number": "261618",
+      "ir_number": null,
+      "filing_date": "1988-06-29",
+      "registration_date": "1994-11-11",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Grammofonskivor, videoskivor och kinematografiska filmer.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T03:42:16.671Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4ec0-82ae-705b-94e9-77b30f8a1821",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "international_registration",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "IntR-2024-0000066",
+      "registration_number": "978171",
+      "ir_number": "978171",
+      "filing_date": "2023-12-11",
+      "registration_date": "2008-03-27",
+      "expiry_date": "2018-03-27",
+      "renewal_due_date": "2018-03-27",
+      "publication_date": "2024-09-08",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 41,
+          "goods_services_text": "Education and training services, namely, arranging and conducting personal training, classes, workshops, conferences and seminars in the field of computers, computer software, online services, information technology, website design, and consumer electronics; arranging professi...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-29T05:04:28.767Z",
+      "opposition_window": null,
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4d8d-687f-72ce-b077-87ef59d4b78a",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "refused",
+        "reason": "refused",
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1980-02377",
+      "registration_number": null,
+      "ir_number": null,
+      "filing_date": "1900-01-01",
+      "registration_date": null,
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d8d-68a5-71ee-88af-645a35c48206",
+          "name": "Apple Computer, Inc.",
+          "country_code": "US",
+          "entity_id": "ent_019e4d8d-68a5-71ee-88af-645a35c48206",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T02:39:33.413Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4d90-26cf-737c-899b-1300a515c306",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "refused",
+        "reason": "refused",
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1980-05978",
+      "registration_number": null,
+      "ir_number": null,
+      "filing_date": "1900-01-01",
+      "registration_date": null,
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 35,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        16,
+        35,
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d8d-68a5-71ee-88af-645a35c48206",
+          "name": "Apple Computer, Inc.",
+          "country_code": "US",
+          "entity_id": "ent_019e4d8d-68a5-71ee-88af-645a35c48206",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T02:42:33.108Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4d83-5059-77cf-886e-7881d602de09",
+      "object": "trademark",
+      "mark_text": "BIG APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1901-66713",
+      "registration_number": "166713",
+      "ir_number": null,
+      "filing_date": "1978-10-13",
+      "registration_date": "1979-03-02",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 42,
+          "goods_services_text": "Restaurangverksamhet.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d7a-3c59-77c6-ad1c-44bb4c7c5c34",
+          "name": "STUREPLANSGRUPPEN Aktiebolag",
+          "country_code": "SE",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": null,
+              "exchange": null,
+              "lei": "636700ZCBMQEFIG23538",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019e4d7a-3c59-77c6-ad1c-44bb4c7c5c34",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T02:28:31.894Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4dc2-d819-7339-aebc-058b961c4dac",
+      "object": "trademark",
+      "mark_text": "APPLE BUSINESS CENTER",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1988-01034",
+      "registration_number": "241382",
+      "ir_number": null,
+      "filing_date": "1988-02-08",
+      "registration_date": "1992-10-16",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Datorer med tillbehör.",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": "Utbildning av datoranvändare.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T03:37:55.260Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4dc2-d823-7485-82dc-2025be93d111",
+      "object": "trademark",
+      "mark_text": "APPLE CENTER",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1988-01035",
+      "registration_number": "253232",
+      "ir_number": null,
+      "filing_date": "1988-02-08",
+      "registration_date": "1993-11-12",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Datorer och kringutrustning för datorer.",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": "Utbildning av datoranvändare.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T03:37:55.276Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4e03-4ddf-7356-a158-b54208894591",
+      "object": "trademark",
+      "mark_text": "THE APPLE CAFE",
+      "mark_feature_type": "figurative",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1996-03056",
+      "registration_number": "321433",
+      "ir_number": null,
+      "filing_date": "1996-03-15",
+      "registration_date": "1997-02-07",
+      "expiry_date": "2027-02-07",
+      "renewal_due_date": "2027-02-07",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 42,
+          "goods_services_text": "Restaurangtjänster.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        42
+      ],
+      "design_codes": [
+        {
+          "system": "vienna",
+          "code": "05.07.13"
+        }
+      ],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e4e03-4ddf-7356-a158-b54208894591/media/med_d1654f2e-8d19-4d22-9178-763cdddeb961",
+      "updated_at": "2026-05-22T04:48:19.931Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4df9-5e44-758c-8510-27c8614957b3",
+      "object": "trademark",
+      "mark_text": "APPLE LÄRARKONTO",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1995-01249",
+      "registration_number": "315986",
+      "ir_number": null,
+      "filing_date": "1995-02-03",
+      "registration_date": "1996-08-16",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 36,
+          "goods_services_text": "Finansiell verksamhet, inbegripet tillhandahållande av revolverande konsumentkrediter.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        36
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d77-8465-7067-bf1e-0f065e2439d4",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T11:27:59.914Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4ddf-c336-7791-9353-3d988bb757e9",
+      "object": "trademark",
+      "mark_text": "Hellefors ÄPPLE CIDER",
+      "mark_feature_type": "figurative",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1991-07797",
+      "registration_number": "247746",
+      "ir_number": null,
+      "filing_date": "1991-09-13",
+      "registration_date": "1993-04-02",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 32,
+          "goods_services_text": "Samtliga varor",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        32
+      ],
+      "design_codes": [
+        {
+          "system": "vienna",
+          "code": "05.07.13"
+        },
+        {
+          "system": "vienna",
+          "code": "05.07.22"
+        },
+        {
+          "system": "vienna",
+          "code": "25.01.05"
+        }
+      ],
+      "owners": [
+        {
+          "id": "own_019e4d6b-22c5-761a-8ae1-da96adbf969a",
+          "name": "Spendrup Brands AB",
+          "country_code": "SE",
+          "entity_id": "ent_019ebbb3-4507-7411-9f88-b97d3bd64b85",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e4ddf-c336-7791-9353-3d988bb757e9/media/med_25e059e8-746a-455d-8c99-470465061840",
+      "updated_at": "2026-05-22T04:09:30.667Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4e7c-8b68-720c-b48d-dbfce29d207f",
+      "object": "trademark",
+      "mark_text": "Cloudy Apple",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "2011-06034",
+      "registration_number": "501847",
+      "ir_number": null,
+      "filing_date": "2011-08-09",
+      "registration_date": "2011-11-18",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 32,
+          "goods_services_text": "Öl; mineral- och kolsyrat vatten samt andra icke alkoholhaltiga drycker; fruktdrycker och -juicer; safter och andra koncentrat/preparat för framställning av drycker.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        32
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d7a-68d1-73a3-867d-342dac4cd399",
+          "name": "Tropicana Products Inc.",
+          "country_code": "US",
+          "entity_id": "ent_019ee9ac-6c6b-727f-9416-da1765dc2f69",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T07:00:45.534Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4e73-9ac8-7154-89cd-3f9214f421fe",
+      "object": "trademark",
+      "mark_text": "XANTÉ HOT APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "2010-00123",
+      "registration_number": "409776",
+      "ir_number": null,
+      "filing_date": "2010-01-08",
+      "registration_date": "2010-03-05",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 33,
+          "goods_services_text": "Alkoholhaltiga drycker (ej öl); färdigblandade alkoholhaltiga drinkar; likörer.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        33
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d7b-0222-77d8-97a5-4a6e2c43c28b",
+          "name": "Altia Sweden AB",
+          "country_code": "SE",
+          "entity_id": "ent_019e4d7b-0222-77d8-97a5-4a6e2c43c28b",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T06:50:59.646Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4e56-a052-776d-bbce-97f9b437941b",
+      "object": "trademark",
+      "mark_text": "EN TILL (Äpple)",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "2006-00363",
+      "registration_number": "380988",
+      "ir_number": null,
+      "filing_date": "2006-01-13",
+      "registration_date": "2006-05-19",
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 32,
+          "goods_services_text": "Fruktmust för konsumtion.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        32
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4e56-a08d-76f8-a32b-e6b79ef6cec0",
+          "name": "AB Gyllengrip",
+          "country_code": "SE",
+          "entity_id": "ent_019e4e56-a08d-76f8-a32b-e6b79ef6cec0",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-22T11:27:22.717Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e4e04-842f-71be-aeee-07342f6e49b1",
+      "object": "trademark",
+      "mark_text": "APPLE MOUTH",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "prv",
+      "jurisdiction_code": "SE",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1996-05191",
+      "registration_number": "319419",
+      "ir_number": null,
+      "filing_date": "1996-05-24",
+      "registration_date": "1996-11-08",
+      "expiry_date": "2026-11-08",
+      "renewal_due_date": "2026-11-08",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 18,
+          "goods_services_text": "Bett i syntetmaterial.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        18
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e4d6a-d3e9-761e-93b2-7b88234ac123",
+          "name": "Hööks Hästsport AB",
+          "country_code": "SE",
+          "entity_id": "ent_019e4d6a-d3e9-761e-93b2-7b88234ac123",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-26T06:15:06.281Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    }
+  ],
+  "has_more": true,
+  "pagination": {
+    "cursor": "RzBKdEUwSDhySnpEaGo3Wi57ImlkIjoie1wibVwiOlwib1wiLFwidlwiOjIwLFwibFwiOjIwLFwicWhcIjpcIjg3MjAyZTExY2I1Y2ZmNDZcIixcIndcIjo0MDB9IiwiX2VwIjoidHJhZGVtYXJrcyJ9"
+  },
+  "search_meta": {
+    "search_id": "srch_913647651c0b",
+    "query": "apple",
+    "strategies_used": [
+      "exact",
+      "fuzzy"
+    ],
+    "match": "similar",
+    "international_registrations": "expanded",
+    "fallback_reason": "filter:offices forced expanded",
+    "execution_time_ms": 278
+  },
+  "request_id": "req_01kxgrnf5p0kpq18j48feb7f8q"
+}

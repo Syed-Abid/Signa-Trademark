@@ -1,0 +1,1885 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "tm_019d2141-6ce9-771b-872e-bc8b20e49fcf",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [
+          "cancellation_pending"
+        ],
+        "effective_date": "2018-03-27"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "77428980",
+      "registration_number": "4088195",
+      "ir_number": null,
+      "filing_date": "2008-03-22",
+      "registration_date": "2012-01-17",
+      "expiry_date": "2032-01-17",
+      "renewal_due_date": "2032-01-17",
+      "publication_date": "2010-02-16",
+      "termination_date": null,
+      "priority_date": "2007-09-28",
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 41,
+          "goods_services_text": "Education and training services, namely, arranging and conducting personal training, classes, workshops, conferences and seminars in the field of computers, computer software, online services, information technology, website design, and consumer electronics; arranging professi...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d2141-6ce9-771b-872e-bc8b20e49fcf/media/med_d36dc5a9-06d5-40f2-83fb-db4370af87a0",
+      "updated_at": "2026-03-30T03:13:41.483Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2010-02-17",
+        "window_closes": "2010-03-18"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d15b1-04c4-743c-9595-768d5dc3c0d3",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2019-03-13"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "73120444",
+      "registration_number": "1078312",
+      "ir_number": null,
+      "filing_date": "1977-03-25",
+      "registration_date": "1977-11-29",
+      "expiry_date": "2027-11-29",
+      "renewal_due_date": "2027-11-29",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "COMPUTERS; [ AND COMPUTER PROGRAMS RECORDED ON PAPER AND TAPE ] (( * COMPUTER PROGRAMS, NAMELY, COMPUTER OPERATING SOFTWARE, COMPUTER SOFTWARE DEVELOPMENT TOOLS, GAME SOFTWARE, AND COMPUTER SOFTWARE FOR CREATING AND EDITING TEXT AND GRAPHICS * ))",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "APPLE INC.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d15b1-04c4-743c-9595-768d5dc3c0d3/media/med_402660ba-fd09-4046-a5ab-9ee3f25034a0",
+      "updated_at": "2026-05-03T01:18:54.729Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d2065-55bf-73dc-a3af-b3836e279e71",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2021-06-12"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "77172511",
+      "registration_number": "3928818",
+      "ir_number": null,
+      "filing_date": "2007-05-03",
+      "registration_date": "2011-03-08",
+      "expiry_date": "2031-03-08",
+      "renewal_due_date": "2031-03-08",
+      "publication_date": "2008-01-01",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Computer hardware; computer hardware, namely, server, desktop, laptop and notebook computers; computer memory hardware; computer disc drives; optical disc drives; computer hardware, software and computer peripherals for communication between multiple computers and between comp...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d2065-55bf-73dc-a3af-b3836e279e71/media/med_66839ed7-ad76-4e0a-a687-0002c9dc8e8e",
+      "updated_at": "2026-05-03T01:19:06.186Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2008-01-02",
+        "window_closes": "2008-01-31"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1ac5-4741-708e-9020-fc2b473d230d",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2024-08-12"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "74527910",
+      "registration_number": "1895326",
+      "ir_number": null,
+      "filing_date": "1994-05-23",
+      "registration_date": "1995-05-23",
+      "expiry_date": "2035-05-23",
+      "renewal_due_date": "2035-05-23",
+      "publication_date": "1995-02-28",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 36,
+          "goods_services_text": "extension of retail credit services for the purchase of computers and related accessories",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        36
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "APPLE INC.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1ac5-4741-708e-9020-fc2b473d230d/media/med_6cdd2741-eda9-4cc7-a0bd-bdb58eeeb8bd",
+      "updated_at": "2026-05-03T01:18:57.752Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1995-03-01",
+        "window_closes": "1995-03-30"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1a5f-2599-74db-bc87-4d0c20b255f4",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2024-03-20"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "74362361",
+      "registration_number": "1812427",
+      "ir_number": null,
+      "filing_date": "1993-02-26",
+      "registration_date": "1993-12-21",
+      "expiry_date": "2033-12-21",
+      "renewal_due_date": "2033-12-21",
+      "publication_date": "1993-09-28",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 39,
+          "goods_services_text": "arranging travel tours",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        39
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1703-cc35-753b-a962-b37c117209e0",
+          "name": "THE CORYN GROUP II, LLC",
+          "country_code": "US",
+          "entity_id": "ent_019ebbb5-d8f8-76da-be0c-0228a3c6fc55",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1a5f-2599-74db-bc87-4d0c20b255f4/media/med_79fb2a00-ee28-48bb-95d6-d5e78f167ed0",
+      "updated_at": "2026-03-30T02:31:16.784Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1993-09-29",
+        "window_closes": "1993-10-28"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1aa4-0f50-7427-bf35-31cd79c583c2",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2024-12-16"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "74473432",
+      "registration_number": "1862675",
+      "ir_number": null,
+      "filing_date": "1993-12-27",
+      "registration_date": "1994-11-15",
+      "expiry_date": "2034-11-15",
+      "renewal_due_date": "2034-11-15",
+      "publication_date": "1994-08-23",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 30,
+          "goods_services_text": "rice",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        30
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1836-ae32-753c-876f-f545ad261680",
+          "name": "USTOV, INC.",
+          "country_code": "US",
+          "entity_id": "ent_019d1836-ae32-753c-876f-f545ad261680",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1aa4-0f50-7427-bf35-31cd79c583c2/media/med_461b7149-fc6b-411c-b35b-537152b2f749",
+      "updated_at": "2026-03-30T02:32:52.651Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1994-08-24",
+        "window_closes": "1994-09-22"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d20f5-4f0a-72cc-8719-e0d46e125640",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2018-03-19"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "77341831",
+      "registration_number": "3584290",
+      "ir_number": null,
+      "filing_date": "2007-12-01",
+      "registration_date": "2009-03-03",
+      "expiry_date": "2029-03-03",
+      "renewal_due_date": "2029-03-03",
+      "publication_date": "2008-04-22",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 7,
+          "goods_services_text": "Power tools used for making and maintaining archery equipment, namely, Archery Arrow Saw; Arrow Stop for Use with Archery Arrow Saw[; and Archery Arrow Building Kit Primarily Comprised of a Power Tool in the Nature of an Archery Arrow Saw]",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 8,
+          "goods_services_text": "Hand tools used for making and maintaining archery equipment, namely, Archery Bow Press; Adjustable Stand for Archery Bow Press; [Pivotable Bow Limb Support Bar for Archery Bow Press; Archery Bow Compression Bar for Archery Bow Press; ]Tool and Accessory Trays Specifically Fit...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        7,
+        8
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d16a7-c7ac-70f5-8946-f2b8d0e7b1f4",
+          "name": "FERADYNE OUTDOORS, LLC",
+          "country_code": "US",
+          "entity_id": "ent_019d16a7-c7ac-70f5-8946-f2b8d0e7b1f4",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d20f5-4f0a-72cc-8719-e0d46e125640/media/med_2234b2e6-a478-446d-b60e-167f97784bf9",
+      "updated_at": "2026-03-30T03:11:56.085Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2008-04-23",
+        "window_closes": "2008-05-22"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d211d-b834-7632-8b46-7104b47ce73c",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2020-07-01"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "77388864",
+      "registration_number": "3621571",
+      "ir_number": null,
+      "filing_date": "2008-02-05",
+      "registration_date": "2009-05-19",
+      "expiry_date": "2029-05-19",
+      "renewal_due_date": "2029-05-19",
+      "publication_date": "2008-07-29",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 28,
+          "goods_services_text": "Toys, games and playthings, namely, hand-held units for playing electronic games; hand-held units for playing video games; stand alone video game machines; electronic games other than those adapted for use with television receivers only; LCD game machines; electronic education...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        28
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d211d-b834-7632-8b46-7104b47ce73c/media/med_26c8f11b-31d4-4267-98b4-77b3921ef87f",
+      "updated_at": "2026-05-03T01:19:07.481Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2008-07-30",
+        "window_closes": "2008-08-28"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1e12-1382-76e1-a670-44db6373e2dc",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2026-06-18"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "76116541",
+      "registration_number": "3226289",
+      "ir_number": null,
+      "filing_date": "2000-08-24",
+      "registration_date": "2007-04-10",
+      "expiry_date": "2037-04-10",
+      "renewal_due_date": "2037-04-10",
+      "publication_date": "2003-11-11",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 16,
+          "goods_services_text": "Printed materials and publications, namely, user manuals, brochures, [data sheets, white papers, newsletters, catalogs, ] pamphlets,[ periodicals and magazines,] all in the fields of business, creative design, computers, information technology, word processing, database manage...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        16
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1e12-1382-76e1-a670-44db6373e2dc/media/med_2dd28ba1-b672-446a-ac3c-aba09f189d40",
+      "updated_at": "2026-07-08T13:06:27.344Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2003-11-12",
+        "window_closes": "2003-12-11"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1ec6-eb98-76ce-b038-d084b054f858",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "combined",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2023-07-15"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "76373280",
+      "registration_number": "2666330",
+      "ir_number": null,
+      "filing_date": "2002-02-22",
+      "registration_date": "2002-12-24",
+      "expiry_date": "2032-12-24",
+      "renewal_due_date": "2032-12-24",
+      "publication_date": "2002-10-01",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 39,
+          "goods_services_text": "Travel agency services, namely, arranging travel tours",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        39
+      ],
+      "design_codes": [
+        {
+          "system": "us_design_search",
+          "code": "050905"
+        }
+      ],
+      "owners": [
+        {
+          "id": "own_019d1703-cc35-753b-a962-b37c117209e0",
+          "name": "The Coryn Group II, LLC",
+          "country_code": "US",
+          "entity_id": "ent_019ebbb5-d8f8-76da-be0c-0228a3c6fc55",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1ec6-eb98-76ce-b038-d084b054f858/media/med_4949a816-dbb7-4c68-bacc-b4c196b3b15f",
+      "updated_at": "2026-03-30T02:58:03.364Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2002-10-02",
+        "window_closes": "2002-10-31"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d23ba-a109-769a-a156-025c79463500",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2024-05-13"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "78170383",
+      "registration_number": "2808567",
+      "ir_number": null,
+      "filing_date": "2002-10-02",
+      "registration_date": "2004-01-27",
+      "expiry_date": "2034-01-27",
+      "renewal_due_date": "2034-01-27",
+      "publication_date": "2003-11-04",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 42,
+          "goods_services_text": "COMPUTER CONSULTATION, DESIGN, TESTING, RESEARCH AND ADVISORY SERVICES; RESEARCH AND DEVELOPMENT OF COMPUTER HARDWARE AND SOFTWARE; MAINTENANCE AND REPAIR OF COMPUTER SOFTWARE APPLICATIONS; UPDATING OF COMPUTER SOFTWARE; COMPUTER PROGRAMMING SERVICES; PROVIDING INFORMATION CON...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "APPLE INC.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d23ba-a109-769a-a156-025c79463500/media/med_86858906-ce71-49f0-86ca-002488e61e99",
+      "updated_at": "2026-05-03T01:19:10.882Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2003-11-05",
+        "window_closes": "2003-12-04"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d2828-f0f2-71da-bffa-bb7c20ab8682",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2016-03-07"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "78548796",
+      "registration_number": "3038073",
+      "ir_number": null,
+      "filing_date": "2005-01-17",
+      "registration_date": "2006-01-03",
+      "expiry_date": "2026-01-03",
+      "renewal_due_date": "2026-01-03",
+      "publication_date": "2005-10-11",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 40,
+          "goods_services_text": "[ Treatment of materials, namely, developing of photographic film; ] electronic recording of photographic images; enlarging of photographic prints; [ photographic film developing; ] photographic film printing; photographic image processing; photographic printing; photographic ...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        40
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "APPLE INC.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d2828-f0f2-71da-bffa-bb7c20ab8682/media/med_0e1bed70-8e8a-4423-86f5-3528e2129816",
+      "updated_at": "2026-05-03T01:19:13.773Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2005-10-12",
+        "window_closes": "2005-11-10"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d2bbc-433a-7588-9350-653f9834aacc",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2026-05-04"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "85120231",
+      "registration_number": "4913886",
+      "ir_number": null,
+      "filing_date": "2010-08-31",
+      "registration_date": "2016-03-08",
+      "expiry_date": "2036-03-08",
+      "renewal_due_date": "2036-03-08",
+      "publication_date": "2011-09-13",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 45,
+          "goods_services_text": "Personal and social services rendered by others to meet the needs of individuals, namely, online social networking and introduction services; online social networking services, namely, facilitating social interaction among individuals, social introductions, and for finding per...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        45
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d2bbc-433a-7588-9350-653f9834aacc/media/med_62537d26-68c4-45d7-bf4e-3ffc276072c2",
+      "updated_at": "2026-05-27T05:11:19.465Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2011-09-14",
+        "window_closes": "2011-10-13"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d2900-24e8-73d6-bc5d-488f8c9e5f5a",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2024-01-10"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "86971465",
+      "registration_number": "5314632",
+      "ir_number": null,
+      "filing_date": "2016-04-11",
+      "registration_date": "2017-10-24",
+      "expiry_date": "2027-10-24",
+      "renewal_due_date": null,
+      "publication_date": "2017-05-09",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 35,
+          "goods_services_text": "Promoting public awareness of student-athlete wellness and substance abuse prevention",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        35
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1845-a337-746e-ab08-281f137faa87",
+          "name": "Rector and Visitors of the University of Virginia",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": null,
+              "exchange": null,
+              "lei": "549300H2U5XHL1CLTN62",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6fc-b39e-70a4-b8cc-b362a41d7d6c",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d2900-24e8-73d6-bc5d-488f8c9e5f5a/media/med_3a6102dc-5b4d-4593-8a74-9c4ecb94b2a7",
+      "updated_at": "2026-03-30T03:41:52.688Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2017-05-10",
+        "window_closes": "2017-06-08"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d2900-2a0a-72cd-af93-a6ec941a529f",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "combined",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2024-01-10"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "86971520",
+      "registration_number": "5243931",
+      "ir_number": null,
+      "filing_date": "2016-04-11",
+      "registration_date": "2017-07-18",
+      "expiry_date": "2027-07-18",
+      "renewal_due_date": null,
+      "publication_date": "2017-05-02",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 35,
+          "goods_services_text": "Promoting public awareness of student-athlete wellness and substance abuse prevention",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        35
+      ],
+      "design_codes": [
+        {
+          "system": "us_design_search",
+          "code": "050905"
+        },
+        {
+          "system": "us_design_search",
+          "code": "270304"
+        }
+      ],
+      "owners": [
+        {
+          "id": "own_019d2900-2aa8-7199-8bbd-f50711bb976a",
+          "name": "Rector and Visitors of the University ofVirginia",
+          "country_code": "US",
+          "entity_id": "ent_019d2900-2aa8-7199-8bbd-f50711bb976a",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d2900-2a0a-72cd-af93-a6ec941a529f/media/med_a5d9fe9d-20ee-442d-b9af-ceef854f6dd2",
+      "updated_at": "2026-03-30T03:41:52.688Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2017-05-03",
+        "window_closes": "2017-06-01"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d177a-0fc7-73c9-8c31-50a4cf6f6a1e",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2019-06-22"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "73743564",
+      "registration_number": "1540478",
+      "ir_number": null,
+      "filing_date": "1988-08-01",
+      "registration_date": "1989-05-23",
+      "expiry_date": "2029-05-23",
+      "renewal_due_date": "2029-05-23",
+      "publication_date": "1989-02-28",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 17,
+          "goods_services_text": "O-RINGS, GASKETS, AND NON-METALLIC SEALS FOR USE IN AEROSPACE, MEDICAL AND INDUSTRIAL APPLICATIONS",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        17
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d161d-5798-706e-a4ba-adbff3df14fb",
+          "name": "APPLE RUBBER PRODUCTS, INC.",
+          "country_code": "US",
+          "entity_id": "ent_019d161d-5798-706e-a4ba-adbff3df14fb",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d177a-0fc7-73c9-8c31-50a4cf6f6a1e/media/med_8b6ecb25-bfc1-489c-b9d0-dfdd8c96da05",
+      "updated_at": "2026-03-30T02:24:39.474Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1989-03-01",
+        "window_closes": "1989-03-30"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1639-164a-749a-b758-27aacef85835",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2023-12-22"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "73339558",
+      "registration_number": "1221667",
+      "ir_number": null,
+      "filing_date": "1981-12-01",
+      "registration_date": "1982-12-28",
+      "expiry_date": "2032-12-28",
+      "renewal_due_date": "2032-12-28",
+      "publication_date": "1982-10-05",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 16,
+          "goods_services_text": "Books Prepared for the Development of Student Interest and for the Improvement of Reading Skills",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        16
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d14b2-313b-7599-b305-457a2d27d39d",
+          "name": "SCHOLASTIC INC.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": null,
+              "exchange": null,
+              "lei": "QGWP1ZESIPWYSJQLR088",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "SCHL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019f286d-e0ac-751f-a0b7-4e8a99d108ac",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1639-164a-749a-b758-27aacef85835/media/med_51085be3-9a1e-4a74-937b-e2d463423647",
+      "updated_at": "2026-03-30T02:19:11.252Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1982-10-06",
+        "window_closes": "1982-11-04"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1540-67a9-74c8-a079-abbb7f8b8f18",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "combined",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2019-04-16"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "72303482",
+      "registration_number": "0869284",
+      "ir_number": null,
+      "filing_date": "1968-07-24",
+      "registration_date": "1969-05-13",
+      "expiry_date": "2029-05-13",
+      "renewal_due_date": "2029-05-13",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 34,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        34
+      ],
+      "design_codes": [
+        {
+          "system": "us_design_search",
+          "code": "050905"
+        }
+      ],
+      "owners": [
+        {
+          "id": "own_019d14c0-e8cc-73cc-b23e-ba16fe851b26",
+          "name": "PINKERTON TOBACCO CO. LP",
+          "country_code": "US",
+          "entity_id": "ent_019ee94e-561b-73cd-8437-7ab077be342c",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1540-67a9-74c8-a079-abbb7f8b8f18/media/med_42da365d-6f5c-45f4-874f-28805cff082b",
+      "updated_at": "2026-03-30T02:15:37.307Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1c52-ecd3-761e-983a-bf0520808377",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "combined",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2020-07-28"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "75434873",
+      "registration_number": "2347589",
+      "ir_number": null,
+      "filing_date": "1998-02-17",
+      "registration_date": "2000-05-02",
+      "expiry_date": "2030-05-02",
+      "renewal_due_date": "2030-05-02",
+      "publication_date": "1999-03-30",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 6,
+          "goods_services_text": "Metal horseshoe nails and metal horseshoes",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 8,
+          "goods_services_text": "Manually operated hand tools, namely, horseshoe nail applicators and horseshoe nail removers",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        6,
+        8
+      ],
+      "design_codes": [
+        {
+          "system": "us_design_search",
+          "code": "050905"
+        }
+      ],
+      "owners": [
+        {
+          "id": "own_019d1c52-ecea-7498-9a96-fa3221c43b65",
+          "name": "Taiwa Kogyo Kabushiki Kaisha",
+          "country_code": "JP",
+          "entity_id": "ent_019d1c52-ecea-7498-9a96-fa3221c43b65",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1c52-ecd3-761e-983a-bf0520808377/media/med_15c2ccbb-f12c-4c11-83f5-2bb1075f1b43",
+      "updated_at": "2026-03-30T02:43:26.964Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1999-03-31",
+        "window_closes": "1999-04-29"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d1b16-e3d7-742e-97bd-154489a17c5e",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2017-08-27"
+      },
+      "office_code": "uspto",
+      "jurisdiction_code": "US",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "74660120",
+      "registration_number": "2079765",
+      "ir_number": null,
+      "filing_date": "1995-04-07",
+      "registration_date": "1997-07-15",
+      "expiry_date": "2027-07-15",
+      "renewal_due_date": "2027-07-15",
+      "publication_date": "1996-08-20",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 38,
+          "goods_services_text": "communication filed by computer, namely, electronic transmission of data and documents via computer, delivery of messages by electronic transmission",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        38
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d15b1-04e3-71d1-aa6a-3d5c3fdfc588",
+          "name": "APPLE INC.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            },
+            {
+              "source": "sec",
+              "ticker": "AAPL",
+              "exchange": "NASDAQ",
+              "lei": null,
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d1b16-e3d7-742e-97bd-154489a17c5e/media/med_4f1e11b7-5518-44e1-b1b4-813fc9a64705",
+      "updated_at": "2026-05-03T01:18:58.664Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1996-08-21",
+        "window_closes": "1996-09-19"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    }
+  ],
+  "has_more": true,
+  "pagination": {
+    "cursor": "V2ZWTzhlVnp2YWNBM0s4Uy57ImlkIjoie1wibVwiOlwib1wiLFwidlwiOjIwLFwibFwiOjIwLFwicWhcIjpcImZjNWExMDk4MDkwZWEwMTVcIixcIndcIjo0MDB9IiwiX2VwIjoidHJhZGVtYXJrcyJ9"
+  },
+  "search_meta": {
+    "search_id": "srch_e8f7f15892b3",
+    "query": "apple",
+    "strategies_used": [
+      "exact",
+      "fuzzy"
+    ],
+    "match": "similar",
+    "international_registrations": "expanded",
+    "fallback_reason": "filter:offices forced expanded",
+    "execution_time_ms": 350
+  },
+  "request_id": "req_01kxgqgksy0rjbck9q1h6n57t8"
+}

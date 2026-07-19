@@ -1,0 +1,1729 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "tm_019e3e72-364e-719c-915f-29765644e2b4",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2025-07-25"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1320340",
+      "registration_number": "1320340",
+      "ir_number": null,
+      "filing_date": "1985-08-14",
+      "registration_date": "1986-01-27",
+      "expiry_date": "2035-08-14",
+      "renewal_due_date": null,
+      "publication_date": "2015-10-23",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": "Appareils et instruments scientifiques, nautiques, géodésiques, électriques (y compris la T ; S ; F ; ), photographiques, cinématographiques, optiques, de pesage, de mesurage, de signalisation, de contrôle (inspection), de secours (sauvetage) et d'enseignement, appareils autom...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": "Papier, carton et produits en ces matières, non compris dans d'autres classes ; produits de l'imprimerie ; articles pour reliures ; photographies ; papeterie ; adhésifs (matières collantes) pour la papeterie ou le ménage ; matériel pour les artistes ; pinceaux ; machines à écr...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 28,
+          "goods_services_text": "Cartes à jouer.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        16,
+        28
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3ff3-0cd7-71b2-b284-1adc1590350f",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019f2855-268d-702a-9751-45a1cf8de337",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e3e72-364e-719c-915f-29765644e2b4/media/med_670a33e1-c7bb-4c94-985c-9daece65a12e",
+      "updated_at": "2026-05-27T18:42:55.274Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2015-10-24",
+        "window_closes": "2015-12-23"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e72-3a62-7159-b988-60e263f23a19",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2019-09-02"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1558450",
+      "registration_number": "1558450",
+      "ir_number": null,
+      "filing_date": "1989-09-20",
+      "registration_date": "1990-04-16",
+      "expiry_date": "2029-09-20",
+      "renewal_due_date": null,
+      "publication_date": "2009-07-03",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        16
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3df8-9d14-732f-af5f-7e0987b7f740",
+          "name": "APPLE INC",
+          "country_code": "FR",
+          "entity_id": "ent_019e3df8-9d14-732f-af5f-7e0987b7f740",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T04:15:33.986Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2009-07-04",
+        "window_closes": "2009-09-03"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e72-3bd2-746b-8e5c-aedc2874092e",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2018-09-03"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1593146",
+      "registration_number": "1593146",
+      "ir_number": null,
+      "filing_date": "1988-06-30",
+      "registration_date": "1990-10-29",
+      "expiry_date": "2028-06-30",
+      "renewal_due_date": null,
+      "publication_date": "2018-08-24",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e57-6336-71ac-8fc4-d7db0dbf6e92",
+          "name": "Apple Inc., société régie par les lois de l'Etat de Californie",
+          "country_code": "FR",
+          "entity_id": "ent_019ee9a9-348f-728c-9a69-7dc00c466250",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T04:15:34.354Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2018-08-25",
+        "window_closes": "2018-10-24"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e13-3863-733c-85c0-58d23ea926d4",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1039928",
+      "registration_number": "1039928",
+      "ir_number": null,
+      "filing_date": "1978-01-27",
+      "registration_date": null,
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3dd8-894c-7198-9a90-8073638e09a4",
+          "name": "SONOTEC",
+          "country_code": "FR",
+          "entity_id": "ent_019e3dd8-894c-7198-9a90-8073638e09a4",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T02:31:47.555Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e28-34fe-73ef-8bfc-e140f46ca811",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "refused",
+        "reason": "refused",
+        "challenges": [],
+        "effective_date": "2015-03-02"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "3978901",
+      "registration_number": null,
+      "ir_number": null,
+      "filing_date": "2013-01-31",
+      "registration_date": null,
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": "2013-02-22",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 32,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        32
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e27-339f-73fd-b75d-2cb235c547f4",
+          "name": "M. FARID MESSAOUD",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e27-339f-73fd-b75d-2cb235c547f4",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T02:54:42.942Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2013-02-23",
+        "window_closes": "2013-04-22"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e41-dd34-77dc-a8a3-7e3a40663fd9",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "combined",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "expired",
+        "reason": "expired",
+        "challenges": [],
+        "effective_date": "2002-12-02"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "92438366",
+      "registration_number": "92438366",
+      "ir_number": null,
+      "filing_date": "1992-10-20",
+      "registration_date": "1993-03-29",
+      "expiry_date": "2012-10-20",
+      "renewal_due_date": null,
+      "publication_date": "1992-12-04",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 36,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        36,
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3df8-9d14-732f-af5f-7e0987b7f740",
+          "name": "APPLE INC",
+          "country_code": "FR",
+          "entity_id": "ent_019e3df8-9d14-732f-af5f-7e0987b7f740",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T03:22:44.403Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1992-12-05",
+        "window_closes": "1993-02-04"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e04-b100-76f6-8d66-8dc064ccf735",
+      "object": "trademark",
+      "mark_text": "apple",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "expired",
+        "reason": "expired",
+        "challenges": [],
+        "effective_date": "1987-05-25"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1386352",
+      "registration_number": "1386352",
+      "ir_number": null,
+      "filing_date": "1985-10-23",
+      "registration_date": "1987-05-25",
+      "expiry_date": "1995-10-23",
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 35,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        35,
+        41,
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e04-b111-7485-b4c0-2bf39442390a",
+          "name": "Monsieur Pierre GILBERT,",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e04-b111-7485-b4c0-2bf39442390a",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T02:15:55.392Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e0a-c0b5-71c2-8237-932982ea2f6c",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "expired",
+        "reason": "expired",
+        "challenges": [],
+        "effective_date": "1989-10-09"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1527066",
+      "registration_number": "1527066",
+      "ir_number": null,
+      "filing_date": "1989-05-02",
+      "registration_date": "1989-10-09",
+      "expiry_date": "1999-05-02",
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 35,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        35,
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3df4-328d-72ab-9b59-bcdaaab7ae55",
+          "name": "APPLE COMPUTER, INC., société organisée sous les lois de l'Etat de Californie,",
+          "country_code": "FR",
+          "entity_id": "ent_019e3df4-328d-72ab-9b59-bcdaaab7ae55",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T02:22:32.629Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e3f-4aae-733c-bae1-e805b88c17b8",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "expired",
+        "reason": "expired",
+        "challenges": [],
+        "effective_date": "2005-12-26"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "95574473",
+      "registration_number": "95574473",
+      "ir_number": null,
+      "filing_date": "1995-05-29",
+      "registration_date": "1995-11-13",
+      "expiry_date": "2015-05-29",
+      "renewal_due_date": null,
+      "publication_date": "1995-07-13",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 12,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        12
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3de8-168e-7138-8806-229b3be9a9ce",
+          "name": "HEULIEZ CONCORD",
+          "country_code": "FR",
+          "entity_id": "ent_019e3de8-168e-7138-8806-229b3be9a9ce",
+          "entity_id_type": "derived"
+        },
+        {
+          "id": "own_019eea77-2511-74ec-b4c3-b6a80e3eb8fc",
+          "name": "HEULIEZ SAS",
+          "country_code": "FR",
+          "entity_id": "ent_019eea77-2511-74ec-b4c3-b6a80e3eb8fc",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T03:19:55.822Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "1995-07-14",
+        "window_closes": "1995-09-13"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e94-8048-73b9-acbb-cad195e92d07",
+      "object": "trademark",
+      "mark_text": "APPLE T",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2025-05-19"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4190208",
+      "registration_number": "4190208",
+      "ir_number": null,
+      "filing_date": "2015-06-18",
+      "registration_date": "2015-10-09",
+      "expiry_date": "2035-06-18",
+      "renewal_due_date": null,
+      "publication_date": "2015-07-10",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 5,
+          "goods_services_text": "Aliments ; boissons et substances diététiques à usage médical ; compléments alimentaires pour êtres humains ; compléments alimentaires à base de café, thé, cacao, chocolat, sucre, riz, farine et préparations faites de céréales, épices ; aliments pour bébés ; préparations chimi...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 29,
+          "goods_services_text": "Fruits et légumes conservés, séchés, cuits, congelés et préparés, gelées, confitures, compotes, purée de fruit, coulis de fruits, marmelades, fruits cristallisés, fruits confits ; fruits secs, fruits glacés, en-cas à base de fruits, noix de coco séchées ; raisins secs ; zestes...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 30,
+          "goods_services_text": "Farines et préparations faites de céréales, pain, pains d'épices, biscuits, gâteaux, pâtisserie et confiserie, pâtes d'amande, confiserie à base d'amandes ; pâtes de fruits (confiserie) ; sucettes ; sucreries ; bonbons ; gommes à mâcher, non à usage médical, glaces comestibles...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 32,
+          "goods_services_text": "Eaux minérales et gazeuses, et autres boissons non alcooliques, au goût de fruit, à savoir cocktails non alcooliques, boissons à base de fruits et jus de fruits ; extraits de fruits non alcooliques, nectars de fruits ; concentrés de fruits ; jus de légumes (boissons) ; sorbets...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        5,
+        29,
+        30,
+        32
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3db2-8867-749d-806b-d7a940bb59cc",
+          "name": "ANDROS",
+          "country_code": "FR",
+          "entity_id": "ent_019e3db2-8867-749d-806b-d7a940bb59cc",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e3e94-8048-73b9-acbb-cad195e92d07/media/med_09292272-5108-4bff-9ed0-25110ce4f851",
+      "updated_at": "2026-05-27T13:48:57.757Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2015-07-11",
+        "window_closes": "2015-09-10"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 40,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3df0-79c0-712c-88c7-088b0c721b7b",
+      "object": "trademark",
+      "mark_text": "APPLE 2",
+      "mark_feature_type": "combined",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "expired",
+        "reason": "expired",
+        "challenges": [],
+        "effective_date": "2002-01-14"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "3116445",
+      "registration_number": "3116445",
+      "ir_number": null,
+      "filing_date": "2001-08-10",
+      "registration_date": "2002-01-14",
+      "expiry_date": "2011-08-10",
+      "renewal_due_date": null,
+      "publication_date": "2001-09-14",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 24,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 25,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        24,
+        25
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3df0-79d9-74fa-bc3f-39f61efb5a6b",
+          "name": "Jacques ARNAOUT,",
+          "country_code": "FR",
+          "entity_id": "ent_019e3df0-79d9-74fa-bc3f-39f61efb5a6b",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T01:53:50.528Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2001-09-15",
+        "window_closes": "2001-11-14"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "dead_status",
+            "weight": 0.35
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e76-d7b3-76f9-a2b2-27834b2f77e3",
+      "object": "trademark",
+      "mark_text": "MR APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2021-12-06"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "3129725",
+      "registration_number": "3129725",
+      "ir_number": null,
+      "filing_date": "2001-11-06",
+      "registration_date": "2002-05-27",
+      "expiry_date": "2031-11-06",
+      "renewal_due_date": null,
+      "publication_date": "2001-12-14",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 31,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        31
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e76-d7c6-73b9-b673-3bd3645f722e",
+          "name": "MR APPLE NEW ZEALAND LIMITED",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e76-d7c6-73b9-b673-3bd3645f722e",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T04:20:36.403Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2001-12-15",
+        "window_closes": "2002-02-14"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e70-741e-762f-bbab-4288687ba974",
+      "object": "trademark",
+      "mark_text": "APPLE TV",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2019-07-12"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4535813",
+      "registration_number": "4535813",
+      "ir_number": null,
+      "filing_date": "2019-03-21",
+      "registration_date": "2019-07-12",
+      "expiry_date": "2029-03-21",
+      "renewal_due_date": null,
+      "publication_date": "2019-04-12",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 38,
+          "goods_services_text": "Télécommunications ; services de diffusion, de transmission et de diffusion en continu de voix, de données, d’images, de musique, de contenu audio, vidéo, multimédia, de télévision et de radio par le biais de réseaux de télécommunications, de réseaux informatiques, d’Internet,...",
+          "goods_services_text_truncated": true
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": "Services d’éducation, services de programmes de formation, d’orientation, de stage, d’apprentissage et d’orientation professionnelle dans les domaines de la publicité, du marketing, des communications et de la conception ; préparation, organisation, conduite et présentation de...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        38,
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3ff3-0cd7-71b2-b284-1adc1590350f",
+          "name": "Apple Inc.",
+          "country_code": "US",
+          "companies": [
+            {
+              "source": "gleif",
+              "ticker": "AAPL",
+              "exchange": "US",
+              "lei": "HWUPKR0MPOU8FGXBT394",
+              "entity_status": "active"
+            }
+          ],
+          "entity_id": "ent_019f2855-268d-702a-9751-45a1cf8de337",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e3e70-741e-762f-bbab-4288687ba974/media/med_92129cda-d3e1-454a-bcae-bd8396bca236",
+      "updated_at": "2026-05-19T13:18:34.981Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2019-04-13",
+        "window_closes": "2019-06-12"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e28-d4c1-73df-bfb2-78fbcb79683f",
+      "object": "trademark",
+      "mark_text": "The Big Apple Bakery, Pâtisserie Fantaisie Artisanale. The Original & Best!",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2014-09-22"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4070933",
+      "registration_number": "4070933",
+      "ir_number": null,
+      "filing_date": "2014-02-23",
+      "registration_date": "2014-09-22",
+      "expiry_date": "2024-02-23",
+      "renewal_due_date": null,
+      "publication_date": "2014-03-14",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 30,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        30
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e28-d4d8-740d-83b1-e4ca874a8f79",
+          "name": "M. thomas simon",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e28-d4d8-740d-83b1-e4ca874a8f79",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T02:55:23.841Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2014-03-15",
+        "window_closes": "2014-05-14"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e28-d4db-749a-a312-2c135068cea6",
+      "object": "trademark",
+      "mark_text": "SINGLE APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2014-10-20"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4070960",
+      "registration_number": "4070960",
+      "ir_number": null,
+      "filing_date": "2014-02-23",
+      "registration_date": "2014-10-20",
+      "expiry_date": "2024-02-23",
+      "renewal_due_date": null,
+      "publication_date": "2014-03-14",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 33,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        33
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e28-d4ea-72de-9c2e-5f000fa9b8c3",
+          "name": "M. LAHRECHE HACENE",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e28-d4ea-72de-9c2e-5f000fa9b8c3",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T02:55:23.867Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2014-03-15",
+        "window_closes": "2014-05-14"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e96-a0de-70a9-9fba-8c6ab2bc9ffe",
+      "object": "trademark",
+      "mark_text": "LITTLE APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2016-03-21"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4229773",
+      "registration_number": "4229773",
+      "ir_number": null,
+      "filing_date": "2015-11-30",
+      "registration_date": "2016-03-21",
+      "expiry_date": "2025-11-30",
+      "renewal_due_date": null,
+      "publication_date": "2015-12-24",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 35,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 43,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        35,
+        43
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e94-ad29-7683-8255-1e7bb43a13c7",
+          "name": "LITTLE APPLE, SARL",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e94-ad29-7683-8255-1e7bb43a13c7",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T04:55:19.518Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2015-12-25",
+        "window_closes": "2016-02-24"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e9b-ac98-776b-a1ab-c95430911850",
+      "object": "trademark",
+      "mark_text": "APPLE D'OR",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2026-07-02"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4688215",
+      "registration_number": "4688215",
+      "ir_number": null,
+      "filing_date": "2020-10-04",
+      "registration_date": "2021-03-19",
+      "expiry_date": "2030-10-04",
+      "renewal_due_date": null,
+      "publication_date": "2020-10-23",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 3,
+          "goods_services_text": "cosmétiques.",
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        3
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019f4b6e-baca-776d-aa08-8517d1148563",
+          "name": "Chilte Christophe",
+          "country_code": "FR",
+          "entity_id": "ent_019f4b6e-baca-776d-aa08-8517d1148563",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e3e9b-ac98-776b-a1ab-c95430911850/media/med_48a550ca-3f7f-4998-b8d5-66f84eece3b7",
+      "updated_at": "2026-07-10T09:49:35.738Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2020-10-24",
+        "window_closes": "2020-12-23"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e8c-88f3-7145-a9c6-d20a89762ca6",
+      "object": "trademark",
+      "mark_text": "BIG APPLE",
+      "mark_feature_type": "combined",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2024-01-22"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "1252124",
+      "registration_number": "1252124",
+      "ir_number": null,
+      "filing_date": "1983-11-25",
+      "registration_date": "1984-04-09",
+      "expiry_date": "2033-11-25",
+      "renewal_due_date": null,
+      "publication_date": "2013-12-20",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 4,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 37,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        4,
+        37
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e8c-8914-70ba-a604-4bcb732fc004",
+          "name": "PELLETIER Françoise",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e8c-8914-70ba-a604-4bcb732fc004",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e3e8c-88f3-7145-a9c6-d20a89762ca6/media/med_9984bee9-b5f0-43a1-8125-00587b2e6fee",
+      "updated_at": "2026-05-19T04:44:18.035Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2013-12-21",
+        "window_closes": "2014-02-20"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e4c-2767-7164-b733-f32fb9e9c689",
+      "object": "trademark",
+      "mark_text": "COSY APPLE AND CINNAMON",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2025-11-19"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4270978",
+      "registration_number": "4270978",
+      "ir_number": null,
+      "filing_date": "2016-05-10",
+      "registration_date": "2016-09-23",
+      "expiry_date": "2036-05-10",
+      "renewal_due_date": null,
+      "publication_date": "2016-06-03",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 3,
+          "goods_services_text": "Parfums d'ambiance ou d'intérieur ; huiles essentielles pour parfumer l'ambiance ; préparations pour parfumer l'air ; pots-pourris odorants ; encens ;",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 4,
+          "goods_services_text": "Bougies (éclairage) ; bougies parfumées ; cire fondue parfumée, liquide ou solidifiée ;",
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 5,
+          "goods_services_text": "Préparations pour la purification de l'air ; préparations pour l'assainissement de l'air ; préparations pour neutraliser les odeurs ; désodorisants non à usage personnel ; désodorisants d'intérieur ou d'ambiance ; désodorisants pour tapis et moquettes ; désodorisants pour text...",
+          "goods_services_text_truncated": true
+        }
+      ],
+      "nice_classes": [
+        3,
+        4,
+        5
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3f1d-2d66-7454-a429-d9e5a9c15f2a",
+          "name": "S.C. Johnson & Son",
+          "country_code": "US",
+          "entity_id": "ent_019e3f1d-2d66-7454-a429-d9e5a9c15f2a",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019e3e4c-2767-7164-b733-f32fb9e9c689/media/med_a525ffd8-f413-4947-82c5-f05a233ce9f2",
+      "updated_at": "2026-05-27T21:56:05.760Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2016-06-04",
+        "window_closes": "2016-08-03"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019e3e4c-cac9-726f-97f9-4687af240c04",
+      "object": "trademark",
+      "mark_text": "Apple Spirit",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": "2016-11-07"
+      },
+      "office_code": "inpi-fr",
+      "jurisdiction_code": "FR",
+      "scope_kind": "national",
+      "filing_route": "direct_national",
+      "origin_office_code": null,
+      "application_number": "4288853",
+      "registration_number": "4288853",
+      "ir_number": null,
+      "filing_date": "2016-07-21",
+      "registration_date": "2016-11-07",
+      "expiry_date": "2026-07-21",
+      "renewal_due_date": null,
+      "publication_date": "2016-08-12",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 32,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 33,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 43,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        32,
+        33,
+        43
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019e3e4b-2a40-761e-9607-32a1edcac2fc",
+          "name": "M. Amaury Dubourg",
+          "country_code": "FR",
+          "entity_id": "ent_019e3e4b-2a40-761e-9607-32a1edcac2fc",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-05-19T03:34:40.585Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2016-08-13",
+        "window_closes": "2016-10-12"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 39,
+      "match_explanation": {
+        "strategies_matched": [
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    }
+  ],
+  "has_more": true,
+  "pagination": {
+    "cursor": "RFlnRXV5aDdIZTJDVC1iMi57ImlkIjoie1wibVwiOlwib1wiLFwidlwiOjIwLFwibFwiOjIwLFwicWhcIjpcImRlOWRmYzcxM2NjYjk2OTFcIixcIndcIjo0MDB9IiwiX2VwIjoidHJhZGVtYXJrcyJ9"
+  },
+  "search_meta": {
+    "search_id": "srch_c8d8d2e091dc",
+    "query": "apple",
+    "strategies_used": [
+      "exact",
+      "fuzzy"
+    ],
+    "match": "similar",
+    "international_registrations": "expanded",
+    "fallback_reason": "filter:offices forced expanded",
+    "execution_time_ms": 1052
+  },
+  "request_id": "req_01kxgr036gjdh8mth33eg0tkkz"
+}

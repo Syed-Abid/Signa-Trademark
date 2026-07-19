@@ -1,0 +1,2198 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "tm_019d1fb4-8cd7-707d-973d-55d4ce297047",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "000218990",
+      "registration_number": "000218990",
+      "ir_number": null,
+      "filing_date": "1996-04-01",
+      "registration_date": "2000-11-16",
+      "expiry_date": "2036-04-01",
+      "renewal_due_date": "2036-04-01",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 6,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 14,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 15,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 18,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 20,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 21,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 24,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 25,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 26,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 27,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 28,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 34,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        6,
+        9,
+        14,
+        15,
+        16,
+        18,
+        20,
+        21,
+        24,
+        25,
+        26,
+        27,
+        28,
+        34,
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-03-30T03:03:50.431Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d46eb-c17f-707d-bcd8-6dc9c924fc9f",
+      "object": "trademark",
+      "mark_text": "Apple",
+      "mark_feature_type": "figurative",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "002894665",
+      "registration_number": "002894665",
+      "ir_number": null,
+      "filing_date": "2002-10-08",
+      "registration_date": "2004-02-17",
+      "expiry_date": "2032-10-08",
+      "renewal_due_date": "2032-10-08",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 6,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 17,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        6,
+        17
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d4247-5fcd-719a-89f1-cc6d64fb3a0e",
+          "name": "TAIWA KOGYO KABUSHIKI KAISHA",
+          "country_code": null,
+          "entity_id": "ent_019d4247-5fcd-719a-89f1-cc6d64fb3a0e",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d46eb-c17f-707d-bcd8-6dc9c924fc9f/media/med_071ab6d6-da29-48fc-b09b-cff393238a2b",
+      "updated_at": "2026-04-01T02:42:28.863Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d464d-aee8-765b-ac17-7037fef8592f",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "002592855",
+      "registration_number": "002592855",
+      "ir_number": null,
+      "filing_date": "2002-02-26",
+      "registration_date": "2004-02-02",
+      "expiry_date": "2032-02-26",
+      "renewal_due_date": "2032-02-26",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 35,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 36,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 37,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 40,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        35,
+        36,
+        37,
+        40
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-03-31T23:49:49.415Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d464d-aef4-7123-8469-f67fdaf95173",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "002592988",
+      "registration_number": "002592988",
+      "ir_number": null,
+      "filing_date": "2002-02-26",
+      "registration_date": "2003-08-13",
+      "expiry_date": "2032-02-26",
+      "renewal_due_date": "2032-02-26",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 10,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 14,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 18,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 25,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        10,
+        14,
+        18,
+        25
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-03-31T23:49:49.428Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d464d-c9c1-7404-ba3b-06cbd2c84818",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "016905961",
+      "registration_number": "016905961",
+      "ir_number": null,
+      "filing_date": "2017-06-22",
+      "registration_date": "2017-12-19",
+      "expiry_date": "2027-06-22",
+      "renewal_due_date": "2027-06-22",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 39,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        39,
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-03-31T23:49:56.289Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d4662-dbc1-70fc-9399-3c403bc3c7a8",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "002593168",
+      "registration_number": "002593168",
+      "ir_number": null,
+      "filing_date": "2002-02-26",
+      "registration_date": "2003-08-07",
+      "expiry_date": "2032-02-26",
+      "renewal_due_date": "2032-02-26",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 28,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 39,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        28,
+        39
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-04-01T00:12:57.153Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d4662-ec58-75ff-9281-82a9c56db86c",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "009783978",
+      "registration_number": "009783978",
+      "ir_number": null,
+      "filing_date": "2011-03-03",
+      "registration_date": "2013-10-20",
+      "expiry_date": "2031-03-03",
+      "renewal_due_date": "2031-03-03",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 1,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 2,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 4,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 5,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 6,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 7,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 8,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 10,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 11,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 12,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 14,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 15,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 17,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 18,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 20,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 21,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 22,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 23,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 24,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 25,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 26,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 27,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 28,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 31,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 35,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 36,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 37,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 38,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 39,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 40,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 43,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 44,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 45,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        31,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-04-01T00:13:01.399Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d47b8-a7a4-700f-ad2a-bb4a8b6b49b8",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "006313316",
+      "registration_number": "006313316",
+      "ir_number": null,
+      "filing_date": "2007-09-28",
+      "registration_date": "2009-01-20",
+      "expiry_date": "2027-09-28",
+      "renewal_due_date": "2027-09-28",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 35,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 38,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        16,
+        35,
+        38,
+        41,
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-04-01T06:26:17.124Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d47b8-a7a5-7439-a343-ecbf021651a7",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "003529013",
+      "registration_number": "003529013",
+      "ir_number": null,
+      "filing_date": "2003-10-31",
+      "registration_date": "2009-02-03",
+      "expiry_date": "2033-10-31",
+      "renewal_due_date": "2033-10-31",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 2,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 3,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 5,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 6,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 7,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 8,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 11,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 12,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 15,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 20,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 43,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 44,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 45,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        11,
+        12,
+        15,
+        20,
+        43,
+        44,
+        45
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-04-01T06:26:17.125Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d48b1-ec0a-714a-9d97-dc5c88a172ab",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "000000753",
+      "registration_number": "000000753",
+      "ir_number": null,
+      "filing_date": "1996-04-01",
+      "registration_date": "1999-02-03",
+      "expiry_date": "2036-04-01",
+      "renewal_due_date": "2036-04-01",
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 16,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 38,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 41,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        16,
+        38,
+        41,
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-04-01T10:58:33.098Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d4314-d66f-77aa-a955-50b36d050573",
+      "object": "trademark",
+      "mark_text": "Apple",
+      "mark_feature_type": "figurative",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "inactive",
+        "stage": "withdrawn",
+        "reason": "withdrawn",
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "direct_regional",
+      "origin_office_code": null,
+      "application_number": "018241016",
+      "registration_number": null,
+      "ir_number": null,
+      "filing_date": "2020-05-18",
+      "registration_date": null,
+      "expiry_date": null,
+      "renewal_due_date": null,
+      "publication_date": null,
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 10,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9,
+        10
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d4314-d68e-73ad-add7-a04b2cd3f4b0",
+          "name": "South China Industries Limited",
+          "country_code": null,
+          "entity_id": "ent_019d4314-d68e-73ad-add7-a04b2cd3f4b0",
+          "entity_id_type": "derived"
+        }
+      ],
+      "has_media": true,
+      "primary_image_url": "https://api.signa.so/v1/trademarks/tm_019d4314-d66f-77aa-a955-50b36d050573/media/med_98eecf52-fdc3-4a7d-9561-4d2da1b8770d",
+      "updated_at": "2026-03-31T08:48:52.335Z",
+      "opposition_window": {
+        "status": "unknown",
+        "window_opens": null,
+        "window_closes": null
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 65,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d431f-a368-7708-bbbd-151f15807902",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W01377651",
+      "registration_number": "W01377651",
+      "ir_number": "1377651",
+      "filing_date": "2017-09-29",
+      "registration_date": "2017-09-29",
+      "expiry_date": "2027-09-29",
+      "renewal_due_date": "2027-09-29",
+      "publication_date": "2017-12-04",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-28T17:09:49.109Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2018-01-04",
+        "window_closes": "2018-04-04"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d431f-a370-75b8-8165-3dc3dab95696",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W01413880",
+      "registration_number": "W01413880",
+      "ir_number": "1413880",
+      "filing_date": "2018-05-04",
+      "registration_date": "2018-05-04",
+      "expiry_date": "2028-05-04",
+      "renewal_due_date": "2028-05-04",
+      "publication_date": "2018-07-20",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 9,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        9
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "APPLE INC.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-28T17:28:54.405Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2018-08-20",
+        "window_closes": "2018-11-20"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d431f-a371-722e-aeb6-0daf30d0da3b",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W01402447",
+      "registration_number": "W01402447",
+      "ir_number": "1402447",
+      "filing_date": "2018-02-06",
+      "registration_date": "2018-02-06",
+      "expiry_date": "2028-02-06",
+      "renewal_due_date": "2028-02-06",
+      "publication_date": "2018-05-18",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 16,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        16
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-28T17:28:54.405Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2018-06-18",
+        "window_closes": "2018-09-18"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d4324-b753-744f-a797-175167d28998",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W11071006",
+      "registration_number": "W11071006",
+      "ir_number": "1071006",
+      "filing_date": "2018-02-06",
+      "registration_date": "2011-02-28",
+      "expiry_date": "2031-02-28",
+      "renewal_due_date": "2031-02-28",
+      "publication_date": "2018-03-05",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 45,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        45
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-28T13:50:05.592Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2018-04-05",
+        "window_closes": "2018-07-05"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d4326-8e8d-76d8-986f-025414da85a9",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W10978171",
+      "registration_number": "W10978171",
+      "ir_number": "0978171",
+      "filing_date": "2017-04-24",
+      "registration_date": "2008-03-27",
+      "expiry_date": "2028-03-27",
+      "renewal_due_date": "2028-03-27",
+      "publication_date": "2017-08-18",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 41,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        41
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-29T05:04:28.767Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2017-09-18",
+        "window_closes": "2017-12-18"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d432c-0350-7706-ba04-e80500cec4c8",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W01323866",
+      "registration_number": "W01323866",
+      "ir_number": "1323866",
+      "filing_date": "2016-10-18",
+      "registration_date": "2016-10-18",
+      "expiry_date": "2026-10-18",
+      "renewal_due_date": "2026-10-18",
+      "publication_date": "2016-12-16",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 28,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        28
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-28T15:57:48.720Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2017-01-16",
+        "window_closes": "2017-04-16"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d4275-53b6-71fb-9060-20598d4805ff",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W01512594",
+      "registration_number": "W01512594",
+      "ir_number": "1512594",
+      "filing_date": "2020-01-03",
+      "registration_date": "2020-01-03",
+      "expiry_date": "2030-01-03",
+      "renewal_due_date": "2030-01-03",
+      "publication_date": "2020-02-07",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 36,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        36
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "APPLE INC.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-28T18:23:57.488Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2020-03-07",
+        "window_closes": "2020-06-07"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d46ac-14f2-72bb-8d29-d4f0e6524656",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W10859150",
+      "registration_number": "W10859150",
+      "ir_number": "0859150",
+      "filing_date": "2018-07-27",
+      "registration_date": "2005-07-12",
+      "expiry_date": "2035-07-12",
+      "renewal_due_date": "2035-07-12",
+      "publication_date": "2018-08-24",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 40,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        40
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-29T04:11:19.688Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2018-09-24",
+        "window_closes": "2018-12-24"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    },
+    {
+      "id": "tm_019d46ac-151f-7029-a38f-afb427f63dc3",
+      "object": "trademark",
+      "mark_text": "APPLE",
+      "mark_feature_type": "word",
+      "mark_legal_category": "standard",
+      "right_kind": "trademark",
+      "status": {
+        "primary": "active",
+        "stage": "registered",
+        "reason": null,
+        "challenges": [],
+        "effective_date": null
+      },
+      "office_code": "euipo",
+      "jurisdiction_code": "EU",
+      "scope_kind": "regional",
+      "filing_route": "madrid_designation",
+      "origin_office_code": "wipo",
+      "application_number": "W10870749",
+      "registration_number": "W10870749",
+      "ir_number": "0870749",
+      "filing_date": "2017-09-05",
+      "registration_date": "2005-06-07",
+      "expiry_date": "2035-06-07",
+      "renewal_due_date": "2035-06-07",
+      "publication_date": "2017-10-10",
+      "termination_date": null,
+      "priority_date": null,
+      "office_updated_at": null,
+      "classifications": [
+        {
+          "nice_class": 36,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 38,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        },
+        {
+          "nice_class": 42,
+          "goods_services_text": null,
+          "goods_services_text_truncated": false
+        }
+      ],
+      "nice_classes": [
+        36,
+        38,
+        42
+      ],
+      "design_codes": [],
+      "owners": [
+        {
+          "id": "own_019d1f79-7e06-708a-a3e4-1250d2279ca7",
+          "name": "Apple Inc.",
+          "country_code": null,
+          "entity_id": "ent_019eb6f8-6202-7151-92e8-d8348857fe54",
+          "entity_id_type": "resolved"
+        }
+      ],
+      "has_media": false,
+      "primary_image_url": null,
+      "updated_at": "2026-06-29T04:26:15.259Z",
+      "opposition_window": {
+        "status": "closed",
+        "window_opens": "2017-11-10",
+        "window_closes": "2018-02-10"
+      },
+      "coverage": null,
+      "source_records": null,
+      "owners_mixed": null,
+      "relevance_score": 64,
+      "match_explanation": {
+        "strategies_matched": [
+          "exact",
+          "normalized",
+          "synonym",
+          "fuzzy"
+        ],
+        "boost_factors": [
+          {
+            "factor": "exact_match",
+            "weight": 100
+          },
+          {
+            "factor": "live_status",
+            "weight": 1.3
+          },
+          {
+            "factor": "madrid_designation_demotion",
+            "weight": 0.5
+          }
+        ]
+      },
+      "highlights": null
+    }
+  ],
+  "has_more": true,
+  "pagination": {
+    "cursor": "U2RYNTZRaC10cE9ncVlQci57ImlkIjoie1wibVwiOlwib1wiLFwidlwiOjIwLFwibFwiOjIwLFwicWhcIjpcImY4NTAxNTI1ZjY2MWFhMThcIixcIndcIjo0MDB9IiwiX2VwIjoidHJhZGVtYXJrcyJ9"
+  },
+  "search_meta": {
+    "search_id": "srch_66e6ce47a72f",
+    "query": "apple",
+    "strategies_used": [
+      "exact",
+      "fuzzy"
+    ],
+    "match": "similar",
+    "international_registrations": "expanded",
+    "fallback_reason": "filter:offices forced expanded",
+    "execution_time_ms": 382
+  },
+  "request_id": "req_01kxgr3n5x5sz1nafasqyj3qec"
+}
